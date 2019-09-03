@@ -2,4 +2,4 @@
  
  ### live at https://kirtichouhan.github.io
  
- - kirti Chouhan
+ - Kirti - MEAN stack developer
