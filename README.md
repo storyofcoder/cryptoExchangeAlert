@@ -4,4 +4,4 @@
  
  ### live at https://kirtichouhan.github.io
  
- - Kirti - MEAN stack developer
+ - Munny Kumar - MEAN stack developer
