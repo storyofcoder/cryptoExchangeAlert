@@ -2,6 +2,4 @@
  
  ### lcx_frontend
  
- ### live at https://kirtichouhan.github.io
- 
  - Munny Kumar - MEAN stack developer
